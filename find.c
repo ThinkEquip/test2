@@ -9,7 +9,7 @@
 void readdir_fun(char *path,int classlevel);
 
 int main(int argc, char **argv)
-{
+{       1234567
 	char *pathvar;  
   
         pathvar = getenv( "HOME" );  //获取环境变量HOME路径  
